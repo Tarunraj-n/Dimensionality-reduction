@@ -1,5 +1,4 @@
-# Unsupervised-Machine-Learning
-Dimensionality Reduction:
+# Dimensionality Reduction:
 
 
 Objective:
